@@ -1,6 +1,6 @@
 # Import the stuff
 import tkinter as tk, os
-from PIL import Image, ImageTk
+from PIL import Image
 
 
 # Set image path to the current directory wherever you are
